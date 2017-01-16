@@ -18,8 +18,9 @@ li[ui-sref]:hover {
   display: inline-block;
   cursor: pointer;
   color: white;
+  font-weight: bold;
   background-color: gray;
-  border: solid black 1px;
+  border: solid lightgray 3px;
   padding-left: 5px;
   padding-right: 5px;
 }
